@@ -1,0 +1,51 @@
+body {
+  padding-top: 40px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-size: cover;
+  min-height:100vh;
+}
+
+h1,
+h2 {
+  padding: 1rem 2rem;
+  border-top: 4px solid #d8dcdc;
+  border-right: 4px solid #666;
+  border-bottom: 4px solid #333;
+  border-left: 4px solid #868888;
+  border-radius: 0;
+  background-image: -webkit-linear-gradient(135deg, #ccc 0%, #868888 20%, #d8dcdc 34%, white 53%, #ccc 100%);
+  background-image: linear-gradient(-45deg, #ccc 0%, #868888 20%, #d8dcdc 34%, white 53%, #ccc 100%);
+}
+
+
+div {
+  display: inline-block;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.button_css_easy {
+  padding: 0.5em 1em;
+  background: -moz-linear-gradient(#aaff3c, #70ffbc);
+  background: -webkit-linear-gradient(#3cfff5, #8a70ff);
+  background: linear-gradient(to right, #dbff3c, #70ffe0);
+  color: #FFF;
+}
+
+.button_css_normal {
+  padding: 0.5em 1em;
+  background: -moz-linear-gradient(#aaff3c, #70ffbc);
+  background: -webkit-linear-gradient(#3cb1ff, #8a70ff);
+  background: linear-gradient(to right, #3cffff, #9670ff);
+  color: #FFF;
+}
+
+.button_css_hard {
+  padding: 0.5em 1em;
+  background: -moz-linear-gradient(#f2ff3c, #70ffbc);
+  background: -webkit-linear-gradient(#3cc8ff, #7079ff);
+  background: linear-gradient(to right, #a73cff, #ff7077);
+  color: #FFF;
+}
+
