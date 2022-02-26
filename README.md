@@ -1,5 +1,5 @@
 # minecraftTypingGamesTop
-This tool enables elementary school student to practice typing, even if they are not used to operating a personal computer.　Of course, you can enjoy it from kindergarten children to adults
+This tool enables elementary school student to practice typing, even if they are not used to operating a personal computer.　Of course, you can enjoy it from kindergarten children to adults.
 
 # Description
 
